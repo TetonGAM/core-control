@@ -1,9 +1,9 @@
-# Core v2 Management Tool - TetonSKR
+# Core v2 Management Tool - TetonGAM
 
 ## Installation
 
 ```sh
-git clone https://github.com/TetonSKR/core-control
+git clone https://github.com/TetonGAM/core-control
 cd core-control
 ./ccontrol.sh arg1 [arg2]
 ```
